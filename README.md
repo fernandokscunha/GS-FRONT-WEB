@@ -2,12 +2,12 @@ Impacta Carreiras – Global Solution 2025
 
 Plataforma web para conexão entre profissionais e oportunidades no Futuro do Trabalho.
 
-📌 Resumo do Projeto
+Resumo do Projeto
 
 O Impacta Carreiras é uma Single Page Application desenvolvida como parte da Global Solution de Front-End no tema “O Futuro do Trabalho”.
 A proposta foi criar uma plataforma simples e funcional, inspirada em redes profissionais, permitindo explorar perfis de diferentes áreas e visualizar informações completas de cada profissional.
 
-A aplicação traz:
+# A aplicação traz:
 
 Listagem de talentos cadastrados (dados em JSON)
 
@@ -21,18 +21,19 @@ Interface moderna, responsiva e com opção de Dark Mode
 
 Construída com React + Vite + Tailwind CSS
 
-O objetivo foi entregar uma solução enxuta, intuitiva e fiel ao tema proposto, conectando competências, propósito e tecnologia.
+# O objetivo foi entregar uma solução enxuta, intuitiva e fiel ao tema proposto, conectando competências, propósito e tecnologia.
 
-🧠 Funcionalidades Principais
-✔ Listagem de Profissionais
+Funcionalidades Principais
 
-Renderização de mais de 60 perfis fictícios carregados via JSON local.
+Listagem de Profissionais
 
-✔ Busca Inteligente
+60 perfis fictícios carregados via JSON local.
+
+Busca Inteligente
 
 Pesquisa por nome, cargo, tecnologias e área de atuação.
 
-✔ Filtros
+Filtros
 
 Área
 
@@ -40,9 +41,9 @@ Cidade
 
 Tecnologia
 
-✔ Modal Interativa
+Modal Interativa
 
-Ao clicar em um card, o usuário visualiza:
+# Ao clicar em um card, o usuário visualiza:
 
 Informações pessoais
 
@@ -64,15 +65,15 @@ Enviar mensagem
 
 Ações são simuladas apenas no front-end.
 
-✔ Dark Mode
+Dark Mode
 
 Ativado/desativado com um clique, aplicando tema global.
 
-✔ Design Responsivo
+Design Responsivo
 
 Layout preparado para desktop, tablet e mobile usando Tailwind CSS.
 
-🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 React 18
 
@@ -86,7 +87,7 @@ JSON Local
 
 CSS Utility-First
 
-📂 Estrutura do Projeto
+ Estrutura do Projeto
 src/
  ├── assets/
  ├── components/
@@ -96,29 +97,23 @@ src/
  ├── main.jsx
  └── index.css
 
-🔧 Instalação do Projeto
-
-Clone o repositório:
-
-git clone <link-do-repositorio>
-
+Instalação do Projeto
 
 Acesse a pasta:
 
 cd impacta-careers
 
 
-Instale as dependências:
+# Instale as dependências:
 
 npm install
-
 
 Inicie o servidor:
 
 npm run dev
 
+O projeto abrirá no navegador.
 
-O projeto abrirá automaticamente no navegador (geralmente em http://localhost:5173).
 
-
-🔗 Link do Repositório
+🔗 Link do Repositório:
+https://github.com/fernandokscunha/GS-FRONT-WEB
