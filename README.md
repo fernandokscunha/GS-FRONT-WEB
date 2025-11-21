@@ -7,7 +7,7 @@ integrantes
   
 Plataforma web para conexão entre profissionais e oportunidades no Futuro do Trabalho.
 
-Resumo do Projeto
+# Resumo do Projeto
 
 O Impacta Carreiras é uma Single Page Application desenvolvida como parte da Global Solution de Front-End no tema “O Futuro do Trabalho”.
 A proposta foi criar uma plataforma simples e funcional, inspirada em redes profissionais, permitindo explorar perfis de diferentes áreas e visualizar informações completas de cada profissional.
@@ -90,8 +90,7 @@ Acesse a pasta:
 
 cd impacta-careers
 
-
-# Instale as dependências:
+Instale as dependências:
 
 npm install
 
