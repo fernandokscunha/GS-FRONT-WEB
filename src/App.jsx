@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react'
+Fsimport React, { useEffect, useMemo, useState } from 'react'
 import professionalsData from './data/professionals.json'
 import banner from './assets/banner-impacta.png'
 import logoLight from './assets/logo-light.png'
@@ -114,7 +114,7 @@ function ProfessionalModal({ professional, onClose }) {
     }
     const label =
       action === 'recommend' ? 'Recomendação registrada!' : 'Mensagem enviada!'
-    alert(`${label} (simulação front-end)`)
+    alert(`${label} (simulação de envio)`)
     setForm({ name: '', email: '', message: '' })
     setAction(null)
   }
