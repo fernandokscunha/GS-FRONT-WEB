@@ -62,23 +62,15 @@ Soft skills
 
 Hobbies
 
-Com botões funcionais:
+# Com botões funcionais:
 
-Recomendar profissional
+Recomendar profissional/Enviar mensagem
 
-Enviar mensagem
-
-Ações são simuladas apenas no front-end.
-
-Dark Mode
-
-Ativado/desativado com um clique, aplicando tema global.
+Dark Mode Ativado/desativado com um clique, aplicando tema global.
 
 Design Responsivo
 
-Layout preparado para desktop, tablet e mobile usando Tailwind CSS.
-
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 React 18
 
