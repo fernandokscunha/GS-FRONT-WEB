@@ -1,0 +1,2222 @@
+[
+  {
+    "id": 1,
+    "name": "Henrique Silva",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=1",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "AWS",
+      "Node.js",
+      "Java",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "AWS",
+      "Node.js",
+      "Java"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Carla Almeida",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=2",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "C#",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "C#",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Zeca Costa",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=3",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "Node.js",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "Node.js",
+      "C#"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bruno Gomes",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=4",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "Java",
+      "React",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "Java",
+      "React"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nicolas Souza",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=5",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "React",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ulisses Costa",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=6",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "Kubernetes",
+      "Java",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gabriela Souza",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=7",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "C#",
+      "Docker",
+      "AWS",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "C#",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Diego Costa",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=8",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "Node.js",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "Node.js",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Zeca Silva",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=9",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Isabela Almeida",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=10",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "AWS",
+      "Power BI",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "AWS",
+      "Power BI",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Vanessa Gomes",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=11",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "C#",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "C#",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Rafael Rodrigues",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=12",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "Python",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "Python",
+      "C#"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gabriela Almeida",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=13",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "SQL",
+      "Node.js",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "SQL",
+      "Node.js",
+      "C#"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sofia Almeida",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=14",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "SQL",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "SQL",
+      "C#"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rafael Rodrigues",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=15",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "Node.js",
+      "Docker",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "Node.js",
+      "Docker"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Karina Gomes",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=16",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "Java",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "Java",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Ana Souza",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=17",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "Java",
+      "AWS",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "Java",
+      "AWS"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Olivia Costa",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=18",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "React",
+      "Kubernetes",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "React",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Lucas Santos",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=19",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "AWS",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "AWS",
+      "SQL"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Yara Oliveira",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=20",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "C#",
+      "Vue.js",
+      "React",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "C#",
+      "Vue.js",
+      "React"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bruno Costa",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=21",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Docker",
+      "Java",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Docker",
+      "Java"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Paulo Oliveira",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=22",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Power BI",
+      "Python",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Power BI",
+      "Python"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Eduarda Santos",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=23",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "Vue.js",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "Vue.js",
+      "SQL"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Vanessa Teixeira",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=24",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "Kubernetes",
+      "Vue.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "Kubernetes",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Carla Gomes",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=25",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Docker",
+      "React",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Docker",
+      "React"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zeca Teixeira",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=26",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "AWS",
+      "C#",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "AWS",
+      "C#",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Carla Souza",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=27",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "SQL",
+      "Figma",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "SQL",
+      "Figma"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Karina Rodrigues",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=28",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "React",
+      "Docker",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "React",
+      "Docker"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "João Souza",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=29",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "AWS",
+      "Vue.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "AWS",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Felipe Silva",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=30",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Power BI",
+      "Java",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Power BI",
+      "Java"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Olivia Souza",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=31",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Python",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Python",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "William Costa",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=32",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "React",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Yara Souza",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=33",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "C#",
+      "Vue.js",
+      "Kubernetes",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "C#",
+      "Vue.js",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Diego Costa",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=34",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Node.js",
+      "Vue.js",
+      "Figma",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Node.js",
+      "Vue.js",
+      "Figma"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Queila Rodrigues",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=35",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "Kubernetes",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "Kubernetes",
+      "C#"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "João Lima",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=36",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Java",
+      "Power BI",
+      "Vue.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Java",
+      "Power BI",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "João Almeida",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=37",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "Figma",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "Figma",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Queila Teixeira",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=38",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Vue.js",
+      "Node.js",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Vue.js",
+      "Node.js",
+      "SQL"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Lucas Costa",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=39",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "C#",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "C#",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "João Souza",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=40",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "Python",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "Python",
+      "C#"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Bruno Lima",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=41",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Vue.js",
+      "Kubernetes",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Vue.js",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Diego Silva",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=42",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Vue.js",
+      "React",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Vue.js",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Ulisses Silva",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=43",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Java",
+      "Docker",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Java",
+      "Docker"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Carla Almeida",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=44",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Python",
+      "Power BI",
+      "Kubernetes",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Python",
+      "Power BI",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Sofia Rodrigues",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=45",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "SQL",
+      "Power BI",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "SQL",
+      "Power BI"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Paulo Gomes",
+    "role": "UX/UI Designer",
+    "area": "Design",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=46",
+    "summary": "Profissional da área de design com foco em ux/ui designer e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Vue.js",
+      "Java",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Vue.js",
+      "Java"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Isabela Souza",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=47",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "React",
+      "Docker",
+      "Figma",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "React",
+      "Docker",
+      "Figma"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Nicolas Santos",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=48",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "SQL",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "SQL",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Henrique Ferreira",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=49",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "AWS",
+      "Figma",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "AWS",
+      "Figma"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nicolas Rodrigues",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=50",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "Java",
+      "Python",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Vanessa Souza",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "photo": "https://i.pravatar.cc/150?img=51",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "C#",
+      "Vue.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "C#",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Bruno Teixeira",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=52",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Lucas Almeida",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=53",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "AWS",
+      "Figma",
+      "Python",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "AWS",
+      "Figma",
+      "Python"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Isabela Oliveira",
+    "role": "Cientista de Dados",
+    "area": "Dados",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=54",
+    "summary": "Profissional da área de dados com foco em cientista de dados e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Power BI",
+      "Vue.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Power BI",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Felipe Almeida",
+    "role": "Analista de Projetos",
+    "area": "Gestão",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "photo": "https://i.pravatar.cc/150?img=55",
+    "summary": "Profissional da área de gestão com foco em analista de projetos e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Figma",
+      "Docker",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Figma",
+      "Docker",
+      "C#"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Vanessa Santos",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=56",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Kubernetes",
+      "Power BI",
+      "AWS",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Kubernetes",
+      "Power BI",
+      "AWS"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Carla Lima",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "Curitiba",
+    "state": "PR",
+    "photo": "https://i.pravatar.cc/150?img=57",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "Figma",
+      "SQL",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "Figma",
+      "SQL"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Henrique Oliveira",
+    "role": "Desenvolvedor(a) Full Stack",
+    "area": "Tecnologia",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "photo": "https://i.pravatar.cc/150?img=58",
+    "summary": "Profissional da área de tecnologia com foco em desenvolvedor(a) full stack e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Docker",
+      "React",
+      "C#",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Docker",
+      "React",
+      "C#"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Diego Costa",
+    "role": "Engenheiro(a) de Automação",
+    "area": "Engenharia",
+    "city": "São Paulo",
+    "state": "SP",
+    "photo": "https://i.pravatar.cc/150?img=59",
+    "summary": "Profissional da área de engenharia com foco em engenheiro(a) de automação e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "Power BI",
+      "Java",
+      "Node.js",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "Power BI",
+      "Java",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Rafael Almeida",
+    "role": "Estrategista de Marketing Digital",
+    "area": "Marketing",
+    "city": "Salvador",
+    "state": "BA",
+    "photo": "https://i.pravatar.cc/150?img=60",
+    "summary": "Profissional da área de marketing com foco em estrategista de marketing digital e interesse em projetos de impacto social e inovação.",
+    "education": "Graduação em curso na FIAP, com foco em tecnologia e inovação.",
+    "experience": "Participação em projetos acadêmicos, hackathons e iniciativas de trabalho colaborativo focadas no futuro do trabalho.",
+    "hardSkills": [
+      "SQL",
+      "Python",
+      "React",
+      "Inglês intermediário",
+      "Metodologias ágeis"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo",
+      "Música",
+      "Cinema",
+      "Viagens"
+    ],
+    "techs": [
+      "SQL",
+      "Python",
+      "React"
+    ]
+  }
+]
