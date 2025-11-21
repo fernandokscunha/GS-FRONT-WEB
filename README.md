@@ -38,16 +38,6 @@ Busca Inteligente
 
 Pesquisa por nome, cargo, tecnologias e área de atuação.
 
-Filtros
-
-Área
-
-Cidade
-
-Tecnologia
-
-Modal Interativa
-
 # Ao clicar em um card, o usuário visualiza:
 
 Informações pessoais
