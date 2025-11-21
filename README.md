@@ -1,13 +1,124 @@
-# Impacta Carreiras - Global Solution 2025
+Impacta Carreiras – Global Solution 2025
 
-Single Page Application (SPA) em React + Tailwind CSS que simula uma rede profissional focada no futuro do trabalho.
+Plataforma web para conexão entre profissionais e oportunidades no Futuro do Trabalho.
 
-## Como rodar
+📌 Resumo do Projeto
 
-```bash
+O Impacta Carreiras é uma Single Page Application desenvolvida como parte da Global Solution de Front-End no tema “O Futuro do Trabalho”.
+A proposta foi criar uma plataforma simples e funcional, inspirada em redes profissionais, permitindo explorar perfis de diferentes áreas e visualizar informações completas de cada profissional.
+
+A aplicação traz:
+
+Listagem de talentos cadastrados (dados em JSON)
+
+Visualização detalhada via modal
+
+Busca e filtros por área, cidade e tecnologia
+
+Ações simuladas de “Recomendar profissional” e “Enviar mensagem”
+
+Interface moderna, responsiva e com opção de Dark Mode
+
+Construída com React + Vite + Tailwind CSS
+
+O objetivo foi entregar uma solução enxuta, intuitiva e fiel ao tema proposto, conectando competências, propósito e tecnologia.
+
+🧠 Funcionalidades Principais
+✔ Listagem de Profissionais
+
+Renderização de mais de 60 perfis fictícios carregados via JSON local.
+
+✔ Busca Inteligente
+
+Pesquisa por nome, cargo, tecnologias e área de atuação.
+
+✔ Filtros
+
+Área
+
+Cidade
+
+Tecnologia
+
+✔ Modal Interativa
+
+Ao clicar em um card, o usuário visualiza:
+
+Informações pessoais
+
+Formação
+
+Experiências
+
+Hard skills
+
+Soft skills
+
+Hobbies
+
+Com botões funcionais:
+
+Recomendar profissional
+
+Enviar mensagem
+
+Ações são simuladas apenas no front-end.
+
+✔ Dark Mode
+
+Ativado/desativado com um clique, aplicando tema global.
+
+✔ Design Responsivo
+
+Layout preparado para desktop, tablet e mobile usando Tailwind CSS.
+
+🛠 Tecnologias Utilizadas
+
+React 18
+
+Vite
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+JSON Local
+
+CSS Utility-First
+
+📂 Estrutura do Projeto
+src/
+ ├── assets/
+ ├── components/
+ ├── data/
+ │    └── professionals.json
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+
+🔧 Instalação do Projeto
+
+Clone o repositório:
+
+git clone <link-do-repositorio>
+
+
+Acesse a pasta:
+
+cd impacta-careers
+
+
+Instale as dependências:
+
 npm install
-npm run dev
-```
 
-O projeto foi criado com Vite, possui modo dark, filtros (área, cidade, tecnologia),
-cards de profissionais, modal com detalhes e ações de **Recomendar** e **Enviar mensagem** (simuladas no front-end).
+
+Inicie o servidor:
+
+npm run dev
+
+
+O projeto abrirá automaticamente no navegador (geralmente em http://localhost:5173).
+
+
+🔗 Link do Repositório
