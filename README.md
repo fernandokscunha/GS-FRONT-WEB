@@ -74,17 +74,7 @@ JSON Local
 
 CSS Utility-First
 
- Estrutura do Projeto
-src/
- ├── assets/
- ├── components/
- ├── data/
- │    └── professionals.json
- ├── App.jsx
- ├── main.jsx
- └── index.css
-
-Instalação do Projeto
+# Instalação do Projeto
 
 Acesse a pasta:
 
