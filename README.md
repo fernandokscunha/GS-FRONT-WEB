@@ -1,5 +1,10 @@
-Impacta Carreiras – Global Solution 2025
+# Impacta Carreiras – Global Solution 2025
 
+integrantes
+- Camila Mendonça (RM565491)
+- Fernando Kenzo Sassaki Cunha (RM562343)
+- Marcello Lassalla de Mello Castanho e Oliveira (RM561879)
+- 
 Plataforma web para conexão entre profissionais e oportunidades no Futuro do Trabalho.
 
 Resumo do Projeto
